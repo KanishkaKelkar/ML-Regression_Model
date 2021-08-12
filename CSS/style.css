@@ -1,0 +1,189 @@
+
+.cname{
+	
+    font-style:italic;
+	font-size:30px;
+	color:#571009;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+.menu{
+	background-color:#929081;
+	height:50px;
+	
+	
+	text-align:center;
+	padding-top:15px;
+	box-sizing:border-box;
+	
+}
+
+a{
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	font-weight:bold;	
+	display:block;
+}
+
+a:hover{
+	color:#7E7B7A;
+		
+}
+
+.banner{
+	/*background-image:url('bannerimage.jpg');*/
+	background-image:url('download (1).jpg');
+	height:1200px;
+	font-weight:bold;
+/*	margin-top:5px;
+	text-align:center;
+	padding-top:150px;
+	box-sizing:border-box;
+	color:white;
+	font-size:20px;
+	font-family:arial black;  */
+}
+
+.about,.project,.client{
+	
+	
+	margin-top:5px;
+	text-align:center;
+	color:#900C3F;
+	font-size:30px;
+	font-family:arial black;	
+    
+}
+
+
+
+.aboutcontent{
+	text-decoration:underline;
+	text-align:center;
+	color:#571009;
+	font-size:40px;
+	font-family:times new roman;
+	font-weight:bold;
+	
+}
+
+.address{
+	 padding-left:5px;
+	 padding-top:5px;
+	 text-align:center;
+	 background-color:#7E7B7A;
+	 color:white;
+	 font-family:arial black;
+	 box-sizing:border-box;
+	 height:150px;
+	 margin-top:10px;
+}
+
+
+.qlinks{
+	background-color:#7E7B7A;
+	color:white;
+	text-align:center;
+	padding-top:5px;
+	box-sizing:border-box;
+	height:150px;
+	margin-top:10px;
+}
+
+.qlinks a{
+	 
+	color:white;	
+	
+}
+
+
+.social{
+	background-color:#7E7B7A;
+	color:white;
+	text-align:center;
+	padding-top:5px;
+	box-sizing:border-box;
+	height:150px;
+	margin-top:10px;
+}
+
+.social a{
+	 
+	color:white;	
+	
+}
+ 
+ .footer{
+	 
+	 background-color:#D9D7D6;
+	 margin-top:3px;
+	 text-align:center;
+	 height:120px;
+	 padding-top:30px;
+	 color:black;
+	 font-weight:bold;
+	 font-size:20px;
+ }
+
+.image{
+	
+	position:fixed;
+	left:30px;
+	bottom:30px;
+	border-radius:50px;	
+}
+
+.one{
+	
+	position:fixed;
+	left:30px;
+	bottom:150px;
+}
+
+
+
+
+
+h1{
+	
+	
+	 margin-top:3px;
+	 text-align:center;
+	 height:50px;
+	 padding-top:30px;
+	 color:white;
+	
+	 font-size:30px;
+	 
+}
+
+form{
+	margin-top:10px;
+}
+
+
+input{
+	width:600px;
+	text-align:center;
+	border-bottom:1px solid gray;
+	color:black;
+	font-size:20px;
+	margin-bottom:10px;
+}
+
+form .submit{
+	background-color:#0E8C94;
+	border-color:transperant;
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+	letter-spacing:2px;
+	height:50px;
+	margin-top:20px;
+
+}
+
+
+form .submit:hover{color:white;}
