@@ -1,4 +1,4 @@
-# ML-Prediction
+# Diamond Price Prediction
 
 # Objective:-
 To build a web application where users can look up a predicted price for their desired diamonds.
