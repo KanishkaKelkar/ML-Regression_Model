@@ -26,5 +26,15 @@ z depth in mm (0--31.8)
 
 8)Table :- A diamond's table refers to the flat facet of the diamond seen when the stone is face up. The main purpose of a diamond table is to refract entering light rays and allow reflected light rays from within the diamond to meet the observer’s eye.
 
+# Procedure:-
+1) Import library
+2) Load dataset
+3) EDA & Preprocessing : drop least important feature, descriptive statistics, pairplot, visualisation, drop outliers, corelation, Encoding
+4) Model Creation : divide into x & y, train test spilt, models are Linear Regression, Random forest Regressor, DecisionTreeRegressor, XGBRegressor, GradientBoostingRegressor
+5) Hyperparameter Tunning 
+6) Cross Validation
+7) Deploy model using flask
+
+
 # Website link :-
 https://diamond-price-predict.herokuapp.com/
