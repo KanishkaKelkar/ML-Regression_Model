@@ -25,3 +25,6 @@ z depth in mm (0--31.8)
 7)Depth :- The depth of the diamond is its height (in millimetres) measured from the culet (bottom tip) to the table (flat, top surface).
 
 8)Table :- A diamond's table refers to the flat facet of the diamond seen when the stone is face up. The main purpose of a diamond table is to refract entering light rays and allow reflected light rays from within the diamond to meet the observer’s eye.
+
+# Website link :-
+https://diamond-price-predict.herokuapp.com/
