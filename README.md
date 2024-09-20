@@ -31,7 +31,7 @@ z depth in mm (0--31.8)
 2)	Analyzed and preprocessed a dataset of diamond attributes (e.g., carat, cut, color, clarity) to clean and normalize data for better model performance.
 3) Conducted feature engineering to identify key factors influencing diamond prices, improving the model’s accuracy and interpretability.
 4)	Implemented cross-validation and hyper-parameter tuning techniques to optimize model performance and avoid overfitting.
-5)	Evaluated model performance using metrics such as MSE (Mean Squared Error), RMSE (Root Mean Squared Error), R² scores, achieving 0.9478.
+5)	Evaluated model performance using metrics such as MSE (Mean Squared Error), RMSE (Root Mean Squared Error), R² scores, achieving 0.9478 Score.
 6)	Visualized insights and model predictions through data visualization tools (e.g., Matplotlib, Seaborn) to present findings effectively.
 7)	Deployed the final model using pickle for real-time price predictions based on user input.
 
