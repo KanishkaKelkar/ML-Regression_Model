@@ -27,13 +27,14 @@ z depth in mm (0--31.8)
 8)Table :- A diamond's table refers to the flat facet of the diamond seen when the stone is face up. The main purpose of a diamond table is to refract entering light rays and allow reflected light rays from within the diamond to meet the observer’s eye.
 
 # Procedure:-
-1) Import library
-2) Load dataset
-3) EDA & Preprocessing : drop least important feature, descriptive statistics, pairplot, visualisation, drop outliers, corelation, Encoding
-4) Model Creation : divide into x & y, train test spilt, models are Linear Regression, Random forest Regressor, DecisionTreeRegressor, XGBRegressor, GradientBoostingRegressor
-5) Hyperparameter Tunning 
-6) Cross Validation
-7) Deploy model using flask
+1)	Developed a predictive model to estimate diamond prices using various machine learning algorithms including Linear Regression, Decision Tree, Random Forest, Gradient Boosting and XGBoost.
+2)	Analyzed and preprocessed a dataset of diamond attributes (e.g., carat, cut, color, clarity) to clean and normalize data for better model performance.
+3) Conducted feature engineering to identify key factors influencing diamond prices, improving the model’s accuracy and interpretability.
+4)	Implemented cross-validation and hyper-parameter tuning techniques to optimize model performance and avoid overfitting.
+5)	Evaluated model performance using metrics such as MSE (Mean Squared Error), RMSE (Root Mean Squared Error), R² scores, achieving 0.9478.
+6)	Visualized insights and model predictions through data visualization tools (e.g., Matplotlib, Seaborn) to present findings effectively.
+7)	Deployed the final model using pickle for real-time price predictions based on user input.
+
 
 
 # Website link :-
